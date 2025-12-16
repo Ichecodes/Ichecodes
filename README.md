@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ichecodes
-- 👀 I’m interested in 3JS, python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in 3JS, python, React, Fianncial Programing
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me ichecodes@gmail.com
 
